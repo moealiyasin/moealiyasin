@@ -1,9 +1,11 @@
 Moe Yasin
+
 IT Specialist
 moeyasin508@email.com | (214)-604-6430 | https://www.linkedin.com/in/moe-yasin-b6280226a/
 Dallas, TX
 
 👨‍💻 About Me
+
 I’m an IT professional with expertise in Windows and AWS WorkSpaces, with early experience supporting macOS environments. I focus on identity management, endpoint administration, and automation to improve system reliability and streamline workflows. Me and my team manage give or take 1300 users on O365 and automate workflows using Aquera to improve efficiency and reduce errors. This GitHub hosts notes from my certification journey I started last year and will have automation & RBAC automation projects after I knock out my AWS SAA here in about three weeks. Then after a project or two, we're gonna go ahead and get the AWS SysOps Admin certification. 
 🛠️ Skills & Tools
 
