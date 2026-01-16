@@ -15,6 +15,7 @@ Collaboration: Office 365, Atlassian (Jira/Confluence), AWS
 Automation: Aquera
 
 💼 Experience Highlights
+
 IT Support Specialist @ HealthMark Group (2023–Present)
 Providing frontline support for healthcare professionals across HIPAA-compliant systems. I've learned a lot about managing IT enviroments through my work here.
 
