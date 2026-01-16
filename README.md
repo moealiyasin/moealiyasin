@@ -47,6 +47,6 @@ Just bought my first ever game console, a PS5, so maybe I can add gamer soon.
 
 Publsihed author of "The 61st" under my pen name Mr. Mo.
 
-But at whatever heart I have left, I'm a doodler, I was really supposed to be a cartoonist/animator. Maybe in another life.
+I'm a doodler at heart, I was really supposed to be a cartoonist/animator. Maybe in another life.
 
 Feel free to connect.
