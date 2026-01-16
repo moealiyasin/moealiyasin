@@ -19,6 +19,7 @@ User Research Moderator @ Tech Mahindra (On-site at Apple & Meta) (2021–2023)
 Conducted User Research Studies for facial recogniton, an iPad hover feature that I'm not sure they ever applied, and the Meta Quest VR headset. This was my start, very fun. I learned more about career navigation than technical skills during this time, but I did leverage this experience to a full time role eventually.
 
 📂 Featured Project
+
 IT Support Knowledge Base
 A comprehensive knowledge base for onboarding, troubleshooting, and workflow improvements in enterprise IT. 
 
@@ -35,10 +36,15 @@ Check out my pinned projects or connect to collaborate!
 AWS SysOps Admin (2026 Planned)
 
 🎯 Fun Facts
+
 ♟️ Chronic chess player (always up for a game!)
+
 Basketball was always there, boxing class newbie, pickleball for the culture.
+
 Just bought my first ever game console, a PS5, so maybe I can add gamer soon. 
+
 Publsihed author of "The 61st" under my pen name Mr. Mo.
+
 But at whatever heart I have left, I'm a doodler, I was really supposed to be a cartoonist/animator. Maybe in another life.
 
 Feel free to connect.
