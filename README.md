@@ -15,10 +15,10 @@ Automation: Aquera
 
 💼 Experience Highlights
 IT Support Specialist @ HealthMark Group (2023–Present)
-Providing frontline support for healthcare professionals across HIPAA-compliant systems. I've learned a lot about managing IT environements through my work here.
+Providing frontline support for healthcare professionals across HIPAA-compliant systems. I've learned a lot about managing IT enviroments through my work here.
 
 User Research Moderator @ Tech Mahindra (On-site at Apple & Meta) (2021–2023)
-Conducted User Research Studies for facial recogniton, an iPad hover feature that I'm not sure they ever applied, and the Meta Quest VR headset. This was my start, very fun. I learned more about career navigation than technical skills during this time, but I did leverage this experience to a full time role eventually.
+Conducted User Research Studies for facial recognition, an iPad hover feature that I'm not sure they ever applied, and the Meta Quest VR headset. This was my start, very fun. I learned more about career navigation than technical skills during this time, but I did leverage this experience to a full time role eventually.
 
 📂 Featured Project
 
@@ -45,7 +45,7 @@ Basketball was always there, boxing class newbie, pickleball for the culture.
 
 Just bought my first ever game console, a PS5, so maybe I can add gamer soon. 
 
-Publsihed author of "The 61st" under my pen name Mr. Mo.
+Published author of "The 61st" under my pen name Mr. Mo.
 
 I'm a doodler at heart, I was really supposed to be a cartoonist/animator. Maybe in another life.
 
