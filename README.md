@@ -13,21 +13,25 @@ Automation: Aquera
 
 💼 Experience Highlights
 IT Support Specialist @ HealthMark Group (2023–Present)
-Providing frontline support for healthcare professionals across HIPAA-compliant systems. I've learned so much during my time here so far.
+Providing frontline support for healthcare professionals across HIPAA-compliant systems. I've learned a lot about managing IT environements through my work here.
 
 User Research Moderator @ Tech Mahindra (On-site at Apple & Meta) (2021–2023)
-Conducted User Research Studies for facial recogniton, an iPad hover feature that I'm not sure they ever applied, and the Meta Quest VR headset. This was my start, very fun. Overall the contract work ran for almost two consecutive years. I learned more about career navigation than technical skills during this time, but I did leverage this experience to a full time role eventually.
+Conducted User Research Studies for facial recogniton, an iPad hover feature that I'm not sure they ever applied, and the Meta Quest VR headset. This was my start, very fun. I learned more about career navigation than technical skills during this time, but I did leverage this experience to a full time role eventually.
 
 📂 Featured Project
 IT Support Knowledge Base
-A comprehensive knowledge base for onboarding, troubleshooting, and workflow improvements in enterprise IT. Contributions and feedback welcome!
+A comprehensive knowledge base for onboarding, troubleshooting, and workflow improvements in enterprise IT. 
 
 Check out my pinned projects or connect to collaborate!
 
 🏆 Certifications
+
 🛡️ CompTIA Network+ (2025)
+
 ☁️ AWS AI Practitioner (2025)
+
 ☁️ AWS Solutions Architect** (February 2026 planned)
+
 AWS SysOps Admin (2026 Planned)
 
 🎯 Fun Facts
