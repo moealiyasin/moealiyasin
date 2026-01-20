@@ -7,6 +7,7 @@ Dallas, TX
 👨‍💻 About Me
 
 IT professional with expertise in Windows and AWS WorkSpaces, & early experience supporting macOS environments. I focus on identity management, endpoint administration, and automation to improve system reliability and streamline workflows. Me and my team manage give or take 1300 users on O365 and automate workflows using Aquera to improve efficiency and reduce errors. 
+
 This GitHub hosts notes from my certification journey I started last year and will have automation & RBAC automation projects after I knock out my AWS SAA here in about three weeks. Then after a project or two, we're gonna go ahead and get the AWS SysOps Admin certification. I'm aiming towards a cloud engineer, systems administrator, maybe infrastructure guy, maybe IT security if I take an interest in that specifically. Working IT Support really stabilized my career, so to respect that I atleast have to try and aspire to do more and have more responsibility.
 
 🛠️ Skills & Tools
