@@ -24,13 +24,6 @@ Providing frontline support for healthcare professionals across HIPAA-compliant 
 User Research Moderator @ Tech Mahindra (On-site at Apple & Meta) (2021–2023)
 Conducted User Research Studies for facial recognition, an iPad hover feature that I'm not sure they ever applied, and the Meta Quest VR headset. This was my start, very fun. I learned more about career navigation than technical skills during this time, but I did leverage this experience to a full time role eventually.
 
-📂 Featured Project
-
-IT Support Knowledge Base
-A comprehensive knowledge base for onboarding, troubleshooting, and workflow improvements in enterprise IT. 
-
-Check out my pinned projects or connect to collaborate!
-
 🏆 Certifications
 
 🛡️ CompTIA Network+ (2025)
