@@ -8,7 +8,7 @@ https://www.linkedin.com/in/moe-yasin-b6280226a/
 
 👨‍💻 About Me
 
-Identity-focused IT professional specializing in hybrid infrastructure, access governance, and endpoint security. I support and secure environments serving ~1,300 users across Microsoft 365 and Active Directory/Entra ecosystems.
+Identity-focused IT professional specializing in hybrid infrastructure, access governance, and endpoint security within regulated environments. I support and secure environments serving ~1,300 users across Microsoft 365 and Active Directory/Entra ecosystems.
 
 My work centers on:
 
@@ -24,7 +24,7 @@ AWS WorkSpaces administration with secure remote access controls
 
 I use automation and structured access design to reduce manual errors, improve compliance posture, and increase operational efficiency.
 
-This GitHub documents my certification journey and will increasingly host hands-on cloud and security projects as I deepen my AWS and IAM expertise.
+This GitHub documents hands-on labs, infrastructure builds, and security-focused cloud projects as I continue deepening my AWS and IAM expertise.
 
 🛠️ Skills & Tools
 
@@ -45,8 +45,8 @@ Aquera, Office 365, Jira, Confluence
 
 💼 Experience Highlights
 
-IT Support Specialist @ HealthMark Group (2024–Present)
-Administer identity infrastructure for ~1,300 users in a HIPAA-regulated environment
+IT Specialist @ HealthMark Group (2024–Present)
+Administer and secure identity infrastructure for ~1,300 users in a HIPAA-regulated healthcare environment.
 
 Enforce RBAC, MFA, and conditional access policies
 
@@ -71,9 +71,9 @@ Partnered with engineering teams to identify and document system issues
 
 ☁️ AWS AI Practitioner (2025)
 
-☁️ AWS Solutions Architect (March 2026 scheduled)
+☁️ AWS Solutions Architect (Scheduled March 2026)
 
-CompTIA Security+ (2026 scheduled)
+CompTIA Security+ (Scheduled 2026)
 
 
 Feel free to connect— especially if you’re building in cloud, identity, or security.
