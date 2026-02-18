@@ -1,8 +1,10 @@
 Moe Yasin
 
 IT Specialist
-moeyasin508@email.com | (214)-604-6430 | https://www.linkedin.com/in/moe-yasin-b6280226a/
 Dallas, TX
+moeyasin508@email.com  
+(214)-604-6430
+https://www.linkedin.com/in/moe-yasin-b6280226a/
 
 👨‍💻 About Me
 
