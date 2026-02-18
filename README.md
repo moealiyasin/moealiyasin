@@ -30,9 +30,9 @@ Conducted User Research Studies for two big tech companies through a contracting
 
 ☁️ AWS AI Practitioner (2025)
 
-☁️ AWS Solutions Architect (March 2026 planned)
+☁️ AWS Solutions Architect (March 2026 scheduled)
 
-CompTIA Security+ (2026 Planned)
+CompTIA Security+ (2026 scheduled)
 
 
 Feel free to connect.
